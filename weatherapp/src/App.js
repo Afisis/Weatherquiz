@@ -3,7 +3,7 @@ import Weather from './compoment/weathercomponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'weather-icons/css/weather-icons.css';
 const APIkey = "d794f70b6df590bd13f3d7d4c4fe39fa";
-//commewnt
+//comment
 class App extends React.Component{
   constructor(){
     super();
